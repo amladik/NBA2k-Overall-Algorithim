@@ -1,1 +1,1 @@
-# NBA2k-Overall-Algorithim
+# NBA2k-Overall-Algorithm
