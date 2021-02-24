@@ -1,7 +1,7 @@
 # NBA2k-Overall-Algorithm
 This Algorithm uses the Machine Learning model Random Forest Regression to estimate a NBA player's overall in the NBA 2K video game
 
-Through tweaking the amount of features in my model, I uncovered a set of 24 NBA statistics that can be used to closely estimate a player's 2K Rating
+Through tweaking the amount of features in my model, I uncovered a set of 24 NBA statistics that can be used to closely estimate a player's Rating in the 2K video game
 
 I used Random Forest Regression as the necessity for extrapolation was extremely minimal (if not non-existent) in this problem
 
