@@ -1,4 +1,6 @@
 # NBA2k-Overall-Algorithm
+# What It Is
+NBA 2K is a basketball video game. Each player in video game has a rating that corresponds to how good (or bad) the player is. In order to try and figure out exactly how the developers of the video game conceived the algorithm for the rating system, I built a Machine Learning model to predict a player's rating in the NBA 2K21 video game based on their performance in real life.
 
 # What I Used
 This Algorithm uses the Machine Learning model Random Forest Regression to estimate a NBA player's overall in the NBA 2K video game
